@@ -3,11 +3,12 @@ AVIATION ACCIDENT ANALYSIS
 
 **Project:**
 
-    :This project is meant to explore, analyse and visualize aviation accidents and related factors such as reasons, survival rates,          fatalities, locations etc. Further, the following factors are needed to be analysed:
-      -The planes crashed per year.
-      -People aboard per year during crashes.
-      -People dead per year during crashes.
-      -People survived per year during crashes.
+This project is meant to explore, analyse and visualize aviation accidents and related factors such as reasons, survival rates,
+fatalities, locations etc. Further, the following factors are needed to be analysed:
+      * The planes crashed per year.
+      * People aboard per year during crashes.
+      * People dead per year during crashes.
+      * People survived per year during crashes.
 
 
 ![alt text](https://www.aopa.org/-/media/Images/AOPA-Main/News-and-Media/Publications/Pilot-Magazine/2020/2003/2003t_accident/2003t_accident_16x9.jpg "Title Img")
@@ -91,13 +92,5 @@ License
 Contact
 ----------------------------------
     Dataset Link-  https://www.kaggle.com/saurograndi/airplane-crashes-since-1908
-    Project Link-  https://github.com/decodrtechnologies/Data-Science/tree/master/Aviation%20Accident%20Analysis
 
-Run
-------------------------------
-    To run this project you will need an active Pythond distribution such as Anaconda or ActivePython
-
-    To execute the project, run the following command in a python supported prompt such as Anaconda Prompt:
-    ipython notebook Template_Aviation.ipynb
-    
-    Goodluck!
+   
